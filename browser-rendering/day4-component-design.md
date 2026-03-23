@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 🧠 오늘의 핵심 개념 (Core Concepts)
+## 1. 오늘의 핵심 개념 (Core Concepts)
 
 ### ① Headless Component 패턴
 
@@ -12,7 +12,7 @@
 - **특징:** 컴포넌트는 오직 '기능'과 '상태'만을 관리하며, 렌더링을 위한 UI는 사용하는 쪽에서 결정합니다. (`Radix UI`, `Headless UI`가 대표적)
 - **효과:** 디자인 요구사항이 변하더라도 핵심 비즈니스 로직을 전혀 수정할 필요 없이 재사용할 수 있습니다.
 
-**💡 코드 예시:**
+**코드 예시:**
 
 ```tsx
 // 로직만 담고 있는 Custom Hook (Headless)
@@ -35,7 +35,7 @@ function ToggleButton() {
 - **특징:** `<Select>`, `<Select.Option>` 처럼 부모-자식 관계의 컴포넌트가 협력합니다. Context API를 활용해 자식 컴포넌트 간에 상태를 공유합니다.
 - **효과:** 직관적이고 가독성이 높으며, 사용자(개발자)가 컴포넌트의 배치를 유연하게 결정할 수 있습니다.
 
-**💡 코드 예시:**
+**코드 예시:**
 
 ```tsx
 const SelectContext = createContext();
