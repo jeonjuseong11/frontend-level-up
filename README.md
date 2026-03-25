@@ -7,5 +7,6 @@
 - [Day 3 - 네트워크 최적화와 비동기 데이터 관리](browser-rendering/day3-network-and-data-fetching.md)
 - [Day 4 - 컴포넌트 디자인 패턴과 선언적 아키텍처](component-design/day4-component-design.md)
 - [Day 5 — 프론트엔드 테스팅 전략: 단위 테스트부터 E2E까지](component-design/day5-testing-strategy.md)
+- [Day 6 — JS 메모리 관리와 성능 최적화: 당신이 몰랐던 5가지 비밀](performance-optimization/day6-memory-management-and-performance.md)
 
 더 추가할 날짜/주제를 알려주시면 여기 인덱스에 연결해 드립니다.
