@@ -9,5 +9,7 @@
 - [Day 5 — 프론트엔드 테스팅 전략: 단위 테스트부터 E2E까지](component-design/day5-testing-strategy.md)
 - [Day 6 — JS 메모리 관리와 성능 최적화: 당신이 몰랐던 5가지 비밀](performance-optimization/day6-memory-management-and-performance.md)
 - [Day 7 — "당신의 번들이 너무 무겁다" — 현대 자바스크립트 성능을 뒤바꿀 5가지 반전 인사이트](performance-optimization/day7-bundle-optimization.md)
+- [Day 8 — 쿠키와 토큰의 숨겨진 전쟁: 현대 웹 보안에서 놓치지 말아야 할 5가지 반전 인사이트](day8-web-security.md)
+- [Day 9 — 웹사이트의 운명을 결정하는 3대 핵심 지표: 2026년형 Core Web Vitals 이해하기](day9-core-web-vitals.md)
 
 더 추가할 날짜/주제를 알려주시면 여기 인덱스에 연결해 드립니다.
