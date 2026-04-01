@@ -11,5 +11,6 @@
 - [Day 7 — "당신의 번들이 너무 무겁다" — 현대 자바스크립트 성능을 뒤바꿀 5가지 반전 인사이트](performance-optimization/day7-bundle-optimization.md)
 - [Day 8 — 쿠키와 토큰의 숨겨진 전쟁: 현대 웹 보안에서 놓치지 말아야 할 5가지 반전 인사이트](day8-web-security.md)
 - [Day 9 — 웹사이트의 운명을 결정하는 3대 핵심 지표: 2026년형 Core Web Vitals 이해하기](day9-core-web-vitals.md)
+- [Day 10 — Next.js 최적화 및 렌더링 아키텍처 브리핑: 성능과 비용을 잡는 핵심 전략](day10-nextjs-optimization.md)
 
 더 추가할 날짜/주제를 알려주시면 여기 인덱스에 연결해 드립니다.
